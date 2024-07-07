@@ -1,0 +1,5 @@
+feedbacks
+    id
+    rate
+    comment
+    date_new

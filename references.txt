@@ -1,0 +1,3 @@
+https://testdriven.io/blog/developing-a-single-page-app-with-fastapi-and-vuejs/
+
+https://medium.com/@johnidouglasmarangon/using-migrations-in-python-sqlalchemy-with-alembic-docker-solution-bd79b219d6a

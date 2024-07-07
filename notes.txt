@@ -1,0 +1,28 @@
+Components:
+Fast api (backend)
+Sqlalchemy (asyncpg) (db script)
+Postgre (DB)
+Pydantic (data validation/models)
+Alembic (migration DB)
+Vuejs 2 (frontend)
+
+Steps:
+1. Install front-end Vue di docker juga (DONE)
+2. Make a docker requirement or virtual env for python.... Check for the pro and cons -> stick with docker (DONE)
+3. Study about feedback form popup example (DONE)
+ source: https://images.app.goo.gl/AfybMUrSuP9SgBqMA -- make it 2 page... with stars and then additional comment
+4. Table architecture creation (DONE)
+5. Check postgree instalation with docker for db and connect with sql alchemy and test api
+ - Installation postgres in Docker (DONE)
+ - look for postgres view to see the structure of DB (DONE)
+ - instalation sql alchemy (DONE)
+ - connect sql alchemy with postgres and fastapi (DONE)
+ - test api async (DONE)
+6. Learn alembic and data migration
+7. Make a models with pydantic
+8. Make an architecture of Api needed (upgrade continuously)
+9. Implement API with sql alchemy and Pydantic
+10. Create the Vue and connect API
+11. Make a graph/report/admin to manage - if needed (if I have time) (OPTIONAL)
+12. Make a readme (OPTIONAL)
+13. Make a git repo and git ignore (OPTIONAL)
